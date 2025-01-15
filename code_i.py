@@ -1,4 +1,4 @@
-# by amrit-official
+# by amrit_official
 
 def reverse_array(arr):
     left, right = 0, len(arr) - 1
