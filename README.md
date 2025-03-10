@@ -37,13 +37,14 @@ All code files are well-commented for better understanding.
    cd amritofficial-Codebase_2025
 
 3. **Choose a programming language folder:**
-   📂 Python/
+   📂 Python/ OR 
    📂 C++/
 
 ## 📬 Contact
 <ul>
-   <li>📧 Email: [amritangshu2025.work@gmail.com] </li>
-   <li>💼 LinkedIn: [https://linkedin.com/in/amritangshu-dey-400940251] </li>
+   <li>📧 Email: amritangshu2025.work@gmail.com </li>
+   <li>💼 LinkedIn: https://linkedin.com/in/amritangshu-dey-400940251 </li>
 </ul>
+
 Stay tuned for more updates!
    
