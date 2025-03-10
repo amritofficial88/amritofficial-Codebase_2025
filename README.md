@@ -6,16 +6,16 @@ This repository is a curated collection of important and logical code snippets i
 ## 📂 Code Categories
 ## 🏗️ DSA Foundation
 
-📌 Arrays & Strings
-📌 Linked Lists
-📌 Stacks & Queues
-📌 Recursion & Backtracking
-📌 Trees & Graphs
-📌 Dynamic Programming (DP)
-📌 Sorting & Searching Algorithms
-📌 Bit Manipulation
-📌 Hashing Techniques
-📌 Object-Oriented Programming (OOP) Concepts
+📌 Arrays & Strings | 
+📌 Linked Lists | 
+📌 Stacks & Queues | 
+📌 Recursion & Backtracking | 
+📌 Trees & Graphs | 
+📌 Dynamic Programming (DP) | 
+📌 Sorting & Searching Algorithms | 
+📌 Bit Manipulation | 
+📌 Hashing Techniques | 
+📌 Object-Oriented Programming (OOP) Concepts | 
 📌 Optimized Code Snippets
 
 ## 🚀 Languages Used
@@ -31,6 +31,7 @@ All code files are well-commented for better understanding.
    git clone https://github.com/amritofficial/amritofficial-Codebase_2025.git
 
 2. **Navigate to the required section:**
+   ```sh
    cd amritofficial-Codebase_2025
 
 3. **Choose a programming language folder:**
