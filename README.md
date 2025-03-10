@@ -5,18 +5,20 @@ This repository is a curated collection of important and logical code snippets i
 
 ## 📂 Code Categories
 ## 🏗️ DSA Foundation
+<ul>
+  <li>📌 Arrays & Strings</li>
+  <li>📌 Linked Lists</li>
+  <li>📌 Stacks & Queues</li>
+  <li>📌 Recursion & Backtracking</li>
+  <li>📌 Trees & Graphs</li>
+  <li>📌 Dynamic Programming (DP)</li>
+  <li>📌 Sorting & Searching Algorithms</li>
+  <li>📌 Bit Manipulation</li>
+  <li>📌 Hashing Techniques</li>
+  <li>📌 Object-Oriented Programming (OOP) Concepts</li>
+  <li>📌 Optimized Code Snippets</li>
+</ul>
 
-📌 Arrays & Strings | 
-📌 Linked Lists | 
-📌 Stacks & Queues | 
-📌 Recursion & Backtracking | 
-📌 Trees & Graphs | 
-📌 Dynamic Programming (DP) | 
-📌 Sorting & Searching Algorithms | 
-📌 Bit Manipulation | 
-📌 Hashing Techniques | 
-📌 Object-Oriented Programming (OOP) Concepts | 
-📌 Optimized Code Snippets
 
 ## 🚀 Languages Used
 
@@ -39,8 +41,9 @@ All code files are well-commented for better understanding.
    📂 C++/
 
 ## 📬 Contact
-📧 Email: [amritangshu2025.work@gmail.com]
-💼 LinkedIn: [https://linkedin.com/in/amritangshu-dey-400940251]
-
+<ul>
+   <li>📧 Email: [amritangshu2025.work@gmail.com] </li>
+   <li>💼 LinkedIn: [https://linkedin.com/in/amritangshu-dey-400940251] </li>
+</ul>
 Stay tuned for more updates!
    
